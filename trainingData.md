@@ -1,0 +1,2 @@
+### How are earnings handled for longer stays?
+For longer stays (28 nights or more), Airbnb sends earnings in monthly instalments, starting about 24 hours after the guest arrives. Payout status can be checked in the Transaction History at any time.
